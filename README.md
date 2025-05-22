@@ -22,12 +22,10 @@ A dynamic Power BI dashboard that visualizes key performance indicators for an e
 - Custom visualizations and DAX measures
 
 ## 📁 File Contents
--  Orders , details - Dataset 
+- `Orders, Details` - Dataset 
 - `Madhav_Ecommerce_Dashboard.pbix` – Power BI file with all visuals and transformations
 - `madhav_ecommerce_dashboard.png` – Dashboard screenshot
 - `README.md` – Project description
-
----
 
 ## 🧠 Insights Derived
 
@@ -37,18 +35,11 @@ A dynamic Power BI dashboard that visualizes key performance indicators for an e
 - Majority of orders placed in **Qtr 1**.
 - Yogesh is the top customer in terms of total spend.
 
----
-
 ## 📌 How to View
 
 1. Download the `.pbix` file.
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Interact with filters and explore insights!
 
----
-
-## 📬 Contact
-
-For queries, feel free to connect via [LinkedIn](https://www.linkedin.com) or raise an issue in this repository.
 
 
