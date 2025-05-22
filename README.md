@@ -13,7 +13,8 @@ A dynamic Power BI dashboard that visualizes key performance indicators for an e
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./madhav_ecommerce_dashboard.png)
+![image](https://github.com/user-attachments/assets/7867927b-7a8e-48c6-9267-b877b066d945)
+
 
 ## 🛠️ Tools Used
 
